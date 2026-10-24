@@ -1,6 +1,6 @@
 {
   "name": "pinned-tabs-left",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Keeps pinned tabs at the left of each tab group, so new tabs open after them.",
   "main": "main.js",
   "private": true,
