@@ -1,7 +1,7 @@
 {
   "id": "pinned-tabs-left",
   "name": "Pinned Tabs Left",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "minAppVersion": "1.5.0",
   "description": "Keeps pinned tabs at the left of each tab group, so new tabs open after them.",
   "author": "Chris Davison",
